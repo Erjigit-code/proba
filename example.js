@@ -1,1 +1,1 @@
-asdasd
+const pair = 'extraordinaire';
